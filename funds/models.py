@@ -35,3 +35,6 @@ class Purchase(models.Model):
     product_id = models.IntegerField()
     advisor_id = models.IntegerField()
     client_id = models.IntegerField()
+
+
+# Demo master branch comment
